@@ -1,7 +1,7 @@
 # Guessing-Game
 
 Begin program
-Generate text "Welcome to the number guessing game!"
+Generate text "Welcome to the number guessing game! Would you like to play?"
 
 If users clicks "Yes!"
 Begin loop
